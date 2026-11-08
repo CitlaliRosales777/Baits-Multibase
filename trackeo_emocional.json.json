@@ -1,0 +1,5 @@
+{"id_user": 1, "id_emocion_conjunto": 1, "fecha_hora": {"$date": "2026-11-01T20:30:00Z"}, "contexto": "Estrés por examen final"}
+{"id_user": 1, "id_emocion_conjunto": 1, "fecha_hora": {"$date": "2026-11-02T08:00:00Z"}, "contexto": "Buen ánimo al despertar"}
+{"id_user": 2, "id_emocion_conjunto": 2, "fecha_hora": {"$date": "2026-11-02T22:15:00Z"}, "contexto": "Discusión familiar"}
+{"id_user": 2, "id_emocion_conjunto": 2, "fecha_hora": {"$date": "2026-11-03T14:00:00Z"}, "contexto": "Recordando a un amigo"}
+{"id_user": 3, "id_emocion_conjunto": 1, "fecha_hora": {"$date": "2026-11-04T09:30:00Z"}, "contexto": "Logré terminar el proyecto"}
